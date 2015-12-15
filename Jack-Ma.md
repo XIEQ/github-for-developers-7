@@ -6,3 +6,4 @@
 
 **Course:** Github for Developers
 
+** Favorite color:**  blue
